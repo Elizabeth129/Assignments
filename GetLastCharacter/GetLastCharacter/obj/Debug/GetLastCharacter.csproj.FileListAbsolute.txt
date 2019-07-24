@@ -1,0 +1,7 @@
+D:\Assignments\GetLastCharacter\GetLastCharacter\bin\Debug\GetLastCharacter.exe.config
+D:\Assignments\GetLastCharacter\GetLastCharacter\bin\Debug\GetLastCharacter.exe
+D:\Assignments\GetLastCharacter\GetLastCharacter\bin\Debug\GetLastCharacter.pdb
+D:\Assignments\GetLastCharacter\GetLastCharacter\obj\Debug\GetLastCharacter.csprojAssemblyReference.cache
+D:\Assignments\GetLastCharacter\GetLastCharacter\obj\Debug\GetLastCharacter.csproj.CoreCompileInputs.cache
+D:\Assignments\GetLastCharacter\GetLastCharacter\obj\Debug\GetLastCharacter.exe
+D:\Assignments\GetLastCharacter\GetLastCharacter\obj\Debug\GetLastCharacter.pdb

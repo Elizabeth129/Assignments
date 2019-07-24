@@ -1,0 +1,7 @@
+D:\Assignments\HasNoneLetters\HasNoneLetters\bin\Debug\HasNoneLetters.exe.config
+D:\Assignments\HasNoneLetters\HasNoneLetters\bin\Debug\HasNoneLetters.exe
+D:\Assignments\HasNoneLetters\HasNoneLetters\bin\Debug\HasNoneLetters.pdb
+D:\Assignments\HasNoneLetters\HasNoneLetters\obj\Debug\HasNoneLetters.csprojAssemblyReference.cache
+D:\Assignments\HasNoneLetters\HasNoneLetters\obj\Debug\HasNoneLetters.csproj.CoreCompileInputs.cache
+D:\Assignments\HasNoneLetters\HasNoneLetters\obj\Debug\HasNoneLetters.exe
+D:\Assignments\HasNoneLetters\HasNoneLetters\obj\Debug\HasNoneLetters.pdb

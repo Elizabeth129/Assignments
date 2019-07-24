@@ -1,0 +1,7 @@
+D:\Assignments\CalculateAveragePopulation\CalculateAveragePopulation\bin\Debug\CalculateAveragePopulation.exe.config
+D:\Assignments\CalculateAveragePopulation\CalculateAveragePopulation\bin\Debug\CalculateAveragePopulation.exe
+D:\Assignments\CalculateAveragePopulation\CalculateAveragePopulation\bin\Debug\CalculateAveragePopulation.pdb
+D:\Assignments\CalculateAveragePopulation\CalculateAveragePopulation\obj\Debug\CalculateAveragePopulation.csprojAssemblyReference.cache
+D:\Assignments\CalculateAveragePopulation\CalculateAveragePopulation\obj\Debug\CalculateAveragePopulation.csproj.CoreCompileInputs.cache
+D:\Assignments\CalculateAveragePopulation\CalculateAveragePopulation\obj\Debug\CalculateAveragePopulation.exe
+D:\Assignments\CalculateAveragePopulation\CalculateAveragePopulation\obj\Debug\CalculateAveragePopulation.pdb

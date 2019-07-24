@@ -1,0 +1,7 @@
+D:\Assignments\FindSmallestElement\FindSmallestElement\bin\Debug\FindSmallestElement.exe.config
+D:\Assignments\FindSmallestElement\FindSmallestElement\bin\Debug\FindSmallestElement.exe
+D:\Assignments\FindSmallestElement\FindSmallestElement\bin\Debug\FindSmallestElement.pdb
+D:\Assignments\FindSmallestElement\FindSmallestElement\obj\Debug\FindSmallestElement.csprojAssemblyReference.cache
+D:\Assignments\FindSmallestElement\FindSmallestElement\obj\Debug\FindSmallestElement.csproj.CoreCompileInputs.cache
+D:\Assignments\FindSmallestElement\FindSmallestElement\obj\Debug\FindSmallestElement.exe
+D:\Assignments\FindSmallestElement\FindSmallestElement\obj\Debug\FindSmallestElement.pdb
